@@ -1,0 +1,10 @@
+name = "Quick share"
+version = 1.1
+copyright = "max"
+description = "Share your resources with allies quickly"
+author = "max"
+url = ""
+uid = "191d4b15-e1cb-415a-83de-b2441f092216"
+exclusive = false
+ui_only = true
+conflicts = {}
